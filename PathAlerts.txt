@@ -1,0 +1,90 @@
+#Mod Contains;Name in tooltip;RGBA colour code;distance to render, -1 for always, -2 for while valid
+# Lightning Mirage Clone
+Metadata/Monsters/Clone/ShadowLightningClone;Lightning Clone;FF0000FF;-2;lightning
+# Volatile Core
+Metadata/Monsters/VolatileCore/VolatileCore;Volatile Core;FF0000FF;-2;core
+# Delirium
+Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator;Delirium Mirror;8888BBFF;-1;delirium
+# Fossils
+Metadata/Chests/DelveChests/EnchantedFossilChestDynamite;Enchanted Fossil[HUA-SHI];FFFF00FF;-1;enchanted
+Metadata/Chests/DelveChests/PerfectFossilChestDynamite;Perfect Fossil[HUA-SHI];FFFF00FF;-1;perfect
+Metadata/Chests/DelveChests/BoundFossilChestDynamite;Bound Fossil[HUA-SHI];FFFFABFF;-1;bound
+Metadata/Chests/DelveChests/AethericFossilChestDynamite;Aetheric Fossil[HUA-SHI];FFFFABFF;-1;aetheric
+Metadata/Chests/DelveChests/PrismaticFossilChestDynamite;Prismatic Fossil[HUA-SHI];FFFFABFF;-1;prismatic
+Metadata/Chests/DelveChests/SerratedFossilChestDynamite;Serrated Fossil[HUA-SHI];FFFFABFF;-1;serrated
+Metadata/Chests/DelveChests/FracturedFossilChest;Fractured Fossil[HUA-SHI];FF00FFFF;-1;fractured
+Metadata/Chests/DelveChests/FacetedFossilChest;Faceted Fossil[HUA-SHI];6400FFFF;-1;faceted
+Metadata/Chests/DelveChests/HollowFossilChest;Hollow Fossil[HUA-SHI];6400FFFF;-1;hollow
+Metadata/Chests/DelveChests/GlyphicFossilChest;Glyphic Fossil[HUA-SHI];FFFF00FF;-1;glyphic
+Metadata/Chests/DelveChests/CorrodedFossilChest;Corroded Fossil[HUA-SHI];FFFF00FF;-1;corroded
+Metadata/Chests/DelveChests/CorrodedFossilChestDynamite;Corroded Fossil[HUA-SHI];FFFF00FF;-1;corroded
+Metadata/Chests/DelveChests/BloodstainedFossilChest;Bloodstained Fossil[HUA-SHI];FFFF00FF;-1;bloodstained
+Metadata/Chests/DelveChests/EnchantedFossilChest;Enchanted Fossil[HUA-SHI];FFFF00FF;-1;enchanted
+Metadata/Chests/DelveChests/PerfectFossilChest;Perfect Fossil[HUA-SHI];FFFF00FF;-1;perfect
+Metadata/Chests/DelveChests/SanctifiedFossilChest;Sanctified Fossil[HUA-SHI];FFFF00FF;-1;sanctified
+Metadata/Chests/DelveChests/ShudderingFossilChest;Shuddering Fossil[HUA-SHI];FFFF00FF;-1;shuddering
+Metadata/Chests/DelveChests/BoundFossilChest;Bound Fossil[HUA-SHI];FFFFABFF;-1;bound
+Metadata/Chests/DelveChests/GildedFossilChest;Gilded Fossil[HUA-SHI];FFFFABFF;-1;gilded
+Metadata/Chests/DelveChests/TangledFossilChest;Tangled Fossil[HUA-SHI];FFFFABFF;-1;tangled
+Metadata/Chests/DelveChests/DenseFossilChest;Dense Fossil[HUA-SHI];FFFFABFF;-1;dense
+Metadata/Chests/DelveChests/AethericFossilChest;Aetheric Fossil[HUA-SHI];FFFFABFF;-1;aetheric
+Metadata/Chests/DelveChests/JaggedFossilChest;Jagged Fossil[HUA-SHI];FFFFABFF;-1;jagged
+Metadata/Chests/DelveChests/PrismaticFossilChest;Prismatic Fossil[HUA-SHI];FFFFABFF;-1;prismatic
+Metadata/Chests/DelveChests/PristineFossilChest;Pristine Fossil[HUA-SHI];FFFFABFF;-1;pristine
+Metadata/Chests/DelveChests/SerratedFossilChest;Serrated Fossil[HUA-SHI];FFFFABFF;-1;serrated
+Metadata/Chests/DelveChests/EncrustedFossilChest;Encrusted Fossil[HUA-SHI];FFFFABFF;-1;encrusted
+Metadata/Chests/DelveChests/LucentFossilChest;Lucent Fossil[HUA-SHI];FFFFABFF;-1;lucent
+Metadata/Chests/DelveChests/AberrantFossilChest;Aberrant Fossil[HUA-SHI];FFFFFFFF;-1;aberrant
+Metadata/Chests/DelveChests/FrigidFossilChest;Frigid Fossil[HUA-SHI];FFFFFFFF;-1;frigid
+Metadata/Chests/DelveChests/MetallicFossilChest;Metallic Fossil[HUA-SHI];FFFFFFFF;-1;metallic
+Metadata/Chests/DelveChests/ScorchedFossilChest;Scorched Fossil[HUA-SHI];FFFFFFFF;-1;scorched
+Metadata/Chests/DelveChests/DelveChestAssortedFossil[HUA-SHI];Assorted Fossil[HUA-SHI];FFFF00FF;-1;fossil
+Metadata/Chests/DelveChests/DelveChestCityProtoVaalFossil[HUA-SHI];Vaal Fossil[HUA-SHI];FFFF00FF;-1;fossil
+
+
+# Strongbox
+Metadata/Chests/StrongBoxes/StrongboxDivination;Diviner's Strongbox[bao-xiang];FF00FFFF;-1;diviners
+Metadata/Chests/StrongBoxes/Strongbox[bao-xiang];Strongbox[bao-xiang];FFFFFFFF;-2;strongbox
+Metadata/Chests/StrongBoxes/Ornate;Ornate Strongbox[bao-xiang];FFFFFFFF;-2;strongbox
+Metadata/Chests/StrongBoxes/Large;Large Strongbox[bao-xiang];FFFFFFFF;-2;strongbox
+Metadata/Chests/StrongBoxes/Jeweller;Jeweller's Strongbox[bao-xiang];FFFFFFFF;-2;strongbox
+Metadata/Chests/StrongBoxes/Gemcutter;Gemcutter's Strongbox[bao-xiang];FFFFFFFF;-2;gemcutters
+Metadata/Chests/StrongBoxes/Chemist;Chemist's Strongbox[bao-xiang];FFFFFFFF;-2;strongbox
+Metadata/Chests/StrongBoxes/CartographerEndMaps;Cartographer's Strongbox[bao-xiang];FF00FFFF;-1;cartog
+Metadata/Chests/StrongBoxes/CartographerHighMaps;Cartographer's Strongbox[bao-xiang];FF00FFFF;-1;cartog
+Metadata/Chests/StrongBoxes/CartographerMidMaps;Cartographer's Strongbox[bao-xiang];FF00FFFF;-1;cartog
+Metadata/Chests/StrongBoxes/CartographerLowMaps;Cartographer's Strongbox[bao-xiang];FF00FFFF;-1;cartog
+Metadata/Chests/StrongBoxes/Cartographer;Cartographer's Strongbox[bao-xiang];FF00FFFF;-1;cartog
+Metadata/Chests/StrongBoxes/Artisan;Artisan's Strongbox[bao-xiang];FFFFFFFF;-2;artisan
+Metadata/Chests/StrongBoxes/Arsenal;Blacksmith's Strongbox[bao-xiang];FFFFFFFF;-2;strongbox
+Metadata/Chests/StrongBoxes/Armory;Armourer's Strongbox[bao-xiang];FFFFFFFF;-1;strongbox
+Metadata/Chests/StrongBoxes/ArcanistProphecy;Arcanist's Strongbox[bao-xiang];FF00FFFF;-1;arcanist
+Metadata/Chests/StrongBoxes/Arcanist;Arcanist's Strongbox[bao-xiang];FF00FFFF;-1;arcanist
+
+
+#Harvest
+Metadata/Terrain/Leagues/Harvest/Objects/HarvestPortalToggleableReverse; Zhuang-yuan!!!;00FFFFFF;-1;seed
+
+# BESTIARY
+Metadata/Monsters/LeagueBestiary/SpiderPlagueBestiary;Fenumal Plagued [zhizhu-MS]; ffFFFF66;-1;seed
+Metadata/Monsters/LeagueBestiary/GemFrogBestiary;Craicic Chimeral [QiMeiLa-MS]; ffFFFF66;-1;seed
+Metadata/Monsters/LeagueBestiary/LynxBestiary;Farric Lynx Alpha [Juxing-sheli-MS]; ff037ffc;-1;seed
+Metadata/Monsters/LeagueBestiary/Avians/MarakethBirdBestiary;Saqawine Rhex [Niao-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/WolfBestiary;Farric Wolf [Julang-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/SpiderPlatedBestiary;Fenumal Hybrid[Duxiezi-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/CrabSpiderBestiary;Craicic Spider [Duzhizhu-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/HellionBestiary2;Farric Frost Hellion [Shensheng-MS]; ff037ffc;-1;seed
+Metadata/Monsters/LeagueBestiary/TigerBestiary;Farric Tiger Alpha [Ju-Laohu-MS]; ffFFFF66;-1;seed
+Metadata/Monsters/LeagueBestiary/MonkeyBloodBestiary;Farric Ape [Ju-yuan-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/VultureBestiary;Saqawine Vulture [Tu-ying-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/FrogBestiary;Craicic Maw [Juchishou-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/CrabParasiteLargeBestiary_;Craicic Savage [shenhai-juxie-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/SnakeBestiary1;Saqawine Cobra [cangkong-she-MS]; ffd2742d;-1;seed
+Metadata/Monsters/LeagueBestiary/SnakeBestiary2;Saqawine Blood Viper [cangkong-dxshe-MS]; ffd2742d;-1;seed
+Metadata/Monsters/SandSpitters/SandSpitter3.ao;Saqawine Blood Viper [cangkong-dxshe-MS2]; ffd2742d;-1;seed
+Metadata/Monsters/SandSpitters/SandSpitter1;Saqawine Blood Viper [cangkong-dxshe-MS1]; ffd2742d;-1;seed
+#EXPEDITION
+Metadata/Monsters/LeagueExpedition/NPC/Rog.ao;S16 [LUO-GE];ff00FF00;-1;seed
+Metadata/Monsters/LeagueExpedition/NPC/Tujen.ao;S16 [TU-JIN];ff00FF00;-1;seed
+Metadata/Monsters/LeagueExpedition/NPC/Gwennen.ao;S16 [GE-WEN-NI];ff00FF00;-1;seed
+Metadata/Monsters/LeagueExpedition/NPC/Dannig.act;S16 [DAN-NIN];ff00FF00;-1;seed
